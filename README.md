@@ -1,1 +1,1 @@
-# first-responsive-page
+# responsive-page
